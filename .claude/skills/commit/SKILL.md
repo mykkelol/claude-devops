@@ -2,7 +2,6 @@
 name: commit
 description: Commit code to GitHub with an AI-generated summary of changes
 allowed-tools: Bash
-disable-model-invocation: true
 ---
 
 Commit the changes completed in this session to the GitHub repo.
