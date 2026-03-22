@@ -1,2 +1,4 @@
 CLAUDE.md
 .claude/
+.terraform/
+.terraform.lock.hcl # optional, some teams commit this
