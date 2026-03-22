@@ -1,4 +1,3 @@
-CLAUDE.md
-.claude/
+.claude/settings.local.json
 .terraform/
-.terraform.lock.hcl # optional, some teams commit this
+.terraform.lock.hcl
